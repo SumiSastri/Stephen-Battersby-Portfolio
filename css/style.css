@@ -106,12 +106,11 @@ hr {
 .card-editing-2,
 .card-editing-3 {
 	height: auto;
-	color: black;
 }
 .editing,
 .writing {
 	text-align: center;
-	/* border: 2px solid lightgrey; */
+	border: 1px solid lightgrey;
 }
 .end {
 	font-size: 25px;
